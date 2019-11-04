@@ -2,11 +2,11 @@
 site_name: 'HFLS Wiki'
 site_description: 'A small wiki for HFLS'
 site_author: 'DoraDmon'
-site_url: 'https://hflswiki.github.io/hfls-wiki'
+site_url: 'https://liziweiprogram.github.io/hfls-wiki'
 
 # Repository
-repo_name: 'HFLSWiki/hfls-wiki'
-repo_url: 'https://github.com/HFLSWiki/hfls-wiki'
+repo_name: 'liziweiprogram/hfls-wiki'
+repo_url: 'https://github.com/liziweiprogram/hfls-wiki'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 HFLSWiki'
